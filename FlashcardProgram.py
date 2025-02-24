@@ -1,3 +1,4 @@
+#Author: Adam Laboissonniere (laboissa@bc.edu)
 import os
 import random
 
